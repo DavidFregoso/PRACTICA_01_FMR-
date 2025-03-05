@@ -29,14 +29,6 @@ El proyecto consiste en crear una pequeña página web y gestionar sus cambios m
 # Clonar el repositorio
 git clone https://github.com/DavidFregoso/PRACTICA_01_FMR.git
 
-# Navegar al directorio del proyecto
-cd "C:\Users\david\OneDrive - ITESO\8 OCTAVO SEMESTRE\GESTION DE INTEGRACION DE CODIGO\PRACTICA_01_FMR"
-
-# Ejemplo de carga inicial en main
-git add index.html
-git commit -m "Carga inicial: agregar index.html"
-git push origin main
-
 # Creación y uso de ramas
 git checkout -b feature_1
 # (Editar index.html para agregar navbar)
